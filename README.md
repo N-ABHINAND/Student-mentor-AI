@@ -70,3 +70,17 @@ Deployment
 
 🏴 GitHub
 🏴 Render Cloud Platform
+
+## 🟢 Project Screenshots
+
+### 🏠 Home Page
+![Home Page](assets/home.png.png)
+
+### 💬 AI Chatbot
+![AI Chatbot](assets/chatbot.png.png)
+
+### 📘 PDF Summary
+![PDF Summary](assets/summary.png.png)
+
+### 🧠 Quiz Generator
+![Quiz Generator](assets/quiz.png.png)
